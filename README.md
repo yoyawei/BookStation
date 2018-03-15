@@ -7,97 +7,28 @@ Window10 + apache-tomcat + MySQL + jsp
 
 目录结构如下：
 
-│  home.jsp
+# Screenshots
 
-│  reset.css
+![register.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/register.JPG)
 
-│  result.jsp
+![login.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/login.JPG)
 
-│  style.css
+![book.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/book.JPG)
 
-│  
+![bookdetail1.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/bookdetail1.JPG)
 
-├─book
+![bookdetail2.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/bookdetail2.JPG)
 
-│      author.jsp
+![authordetail.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/authordetail.JPG)
 
-│      book-item.jsp
+![list.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/list.JPG)
 
-│      book.css
+![listdetail.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/listdetail.JPG)
 
-│      book.jsp
+![createlist.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/createlist.JPG)
 
-│      checkcomment.js
-p
-│      checklist.jsp
+![editlist.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/editlist.JPG)
 
-│      checktag.jsp
+![userinfo1.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/userinfo1.JPG)
 
-│      tagresult.jsp
-
-│     
- 
-├─images
-
-│      ...
-
-│   
- 
-├─list
-
-│      checkbookdel.jsp
-
-│      checkcreate.jsp
-
-│      checkdelete.jsp
-
-│      checkedit.jsp
-
-│      create.jsp
-
-│      editlist.jsp
-
-│      list-item.jsp
-
-│      list.css
-
-│      list.jsp
-
-│      
-
-├─META-INF
-
-│      MANIFEST.MF
-
-│    
-  
-├─user
-
-│      checkedit.jsp
-
-│      checkLogin.jsp
-
-│      checkpwd.jsp
-
-│      checkRegister.jsp
-
-│      login.jsp
-
-│      logout.jsp
-
-│      password.jsp
-
-│      register.jsp
-
-│      user.css
-
-│      user.jsp
-
-│     
- 
-└─WEB-INF
-
-    └─lib
-	
-            mysql-connector-java-5.1.39-bin.jar
-            
+![userinfo2.jpg](https://raw.githubusercontent.com/yoyawei/BookStation/master/Screenshots/userinfo2.JPG)
