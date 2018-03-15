@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+/* || form layout */
+
+.formcontent{
+	width: 450px;
+	margin: 10px auto;
+}
+
+.formcontent h3{
+	font-weight: bold;
+}
+
+.formcontent form{
+	margin-top: 30px;
+}
+
+.formcontent p{
+	color: #666;
+	margin-top: 20px;
+}
+
+.formcontent label{
+	width: 85px;
+	letter-spacing: 1px;
+	float: left;
+}
+
+.formcontent input{
+	border: 1px solid #dfdfdf;
+	border-radius: 3px;
+}
+
+.subbtn{
+	margin-left: 85px;
+	width: 110px;
+	height: 40px;
+	font-size: 1.9rem;
+	line-height: 1.9;
+	text-align: center;
+	color: #fff;
+	background-color: #3B5998;
+	margin-top: 10px;
+}
+
+.savebtn{
+	margin-left: 85px;
+	width: 70px;
+	height: 30px;
+	font-size: 1.5rem;
+	line-height: 1.5;
+	text-align: center;
+	color: #fff;
+	background-color: #3B5998;
+	margin-top: 10px;
+}
+
+.cancelbtn{
+	margin-left: 15px;
+	width: 70px;
+	height: 30px;
+	font-size: 1.5rem;
+	line-height: 1.5;
+	text-align: center;
+	color: #666;
+	background-color: #fff;
+	margin-top: 10px;
+}

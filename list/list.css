@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+aside{
+	flex: 1.2;
+}
+
+.list-detail{
+	margin: 0px 0px 30px 0;
+}
+
+.list-detail h3{
+	font-size: 2.4rem;
+	color: #333;
+	margin: 5px 0 20px 20px;
+}
+
+
+.list-detail h5{
+	height: 40px;
+	font-size: 1.5rem;
+	line-height: 40px;
+	color: #3B5998;
+	background-color: #E7F2FD;
+	padding-left: 30px; 
+	margin-bottom: 10px	; 
+}
+
+.list-detail p{
+	font-size: 1.4rem;
+	color: #333;
+	line-height: 2.1;
+	letter-spacing: 1px;
+	border-left: 8px solid #E7F2FD;
+	padding: 20px 40px 20px 30px;
+	margin: 8px 0 8px 20px;
+}
+
+aside a{
+	font-size: 1.3rem;
+	line-height: 2.4;
+	float: right;
+	color: #666;
+	margin-right: 5px;
+}
+
+.formcontent a{
+	font-size: 1.3rem;
+	line-height: 2.4;
+	color: #666;
+	margin-left: 10px;
+	text-decoration: underline;
+}
+
+.formcontent span{
+	color: #333;
+	font-size: 1.5rem;
+	line-height: 2.4;
+}

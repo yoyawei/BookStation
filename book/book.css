@@ -1,0 +1,116 @@
+@charset "UTF-8";
+
+section{
+	margin-bottom: 30px;
+	clear: both;
+}
+
+.book-detail{
+	padding-top: 10px;
+}
+
+.book-detail img{
+	width: 228px;
+	height: 320px;
+	float: left;
+	margin: 0 30px 50px 0;
+}
+
+.book-detail h2{
+	font-size: 2.8rem;
+	color: #333;
+	letter-spacing: 1.5px;
+	margin: 5px 0 10px 0;
+}
+
+.book-detail h3{
+	font-size: 2.4rem;
+	color: #666;
+	letter-spacing: 1.5px;
+	margin-bottom: 20px;
+}
+
+.book-detail p{
+	font-size: 1.4rem;
+	color: #666;
+	line-height: 2;
+}
+
+.tag{
+	margin-bottom: 15px;
+}
+
+.book-detail span{
+	font-size: 1.4rem;
+	color: #333;
+	line-height: 1.6;
+}
+
+.comment{
+	display: flex;
+	flex-direction: column;
+}
+
+.comment-item{
+	margin: 8px 20px;
+}
+
+.comment p{
+	font-size: 1.4rem;
+	color: #333;
+	margin: 5px 0 10px 0;
+}
+
+/* || form layout*/
+
+.addcontent{
+	margin-bottom: 40px;
+}
+
+.addcontent p{
+	margin-bottom: 10px;
+}
+
+.addcontent input{
+	border: 1px solid #eee;
+	border-radius: 3px;
+	margin-right: 10px;
+}
+
+.addcontent textarea{
+	resize: none;
+	font-size: 1.5rem;
+	color: #333;
+	font-family: "Microsoft YaHei";
+	border: 1px solid #eee;
+	border-radius: 3px;
+	padding: 2px 5px;
+	margin-top: 10px;
+}
+
+.addbtn{
+	width: 70px;
+	height: 30px;
+	font-size: 1.5rem;
+	line-height: 1.5;
+	text-align: center;
+	color: #fff;
+	background-color: #3B5998;
+}
+
+.selectlist{
+	width: 120px;
+	height: 28px;
+	border: 1px solid #eee;
+	border-radius: 3px;
+	margin-right: 10px;
+	color: #333;
+}
+
+.list-item{
+	margin: 0px;
+}
+
+.list-item p{
+	margin: 8px 0px 20px 0px;
+}
