@@ -8,7 +8,7 @@
 
 配置：Window10 + apache-tomcat + MySQL + jsp
 
-样式参考以及数据来源：图灵社区（http://www.ituring.com.cn/）
+样式参考以及数据来源：图灵社区http://www.ituring.com.cn/
 
 
 # Screenshots
