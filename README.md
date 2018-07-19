@@ -6,9 +6,9 @@
 要信息，对图书有一个初步了解。注册用户可以对读过的图书进行打标签，与他人分享对图
 书的评价。注册用户也可以根据一定的主题，创建对应的书单，与他人分享。
 
-配置：Window10 + apache-tomcat + MySQL + jsp
+配置：Window10 + apache-tomcat + MySQL + jsp + html、css
 
-样式参考以及数据来源：图灵社区http://www.ituring.com.cn/
+样式参考以及数据来源：图灵社区 http://www.ituring.com.cn/
 
 
 # Screenshots
